@@ -1,7 +1,7 @@
 # 🚀 Vinicius Sanches Mendes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+evolução;HTML5+%7C+CSS3+%7C+Python;Buscando+cada+vez+mais+conhecimento+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Futuro+Full+Stack;HTML5+%7C+CSS3+%7C+Python;Buscando+Melhorar+Cada+Vez+Mais🚀" />
 </div>
 
 ---
