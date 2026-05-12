@@ -42,8 +42,17 @@
 
 ## 🌐 Contato
 
-📧 Email: https://mail.google.com/mail/u/0/?ogbl#inbox
-💼 LinkedIn: https://www.linkedin.com/in/vin%C3%ADcius-sanches-627118370/
+<p align="center">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-sanches-627118370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/vini77_15/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sanchnini07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
