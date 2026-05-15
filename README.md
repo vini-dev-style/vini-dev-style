@@ -54,7 +54,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   ✨ "A evolução vem da prática constante." ✨
